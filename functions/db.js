@@ -7,7 +7,7 @@ const connection = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "",
-  database: "digital_marketing_v2",
+  database: "evisa",
 });
 
 // open the MySQL connection
